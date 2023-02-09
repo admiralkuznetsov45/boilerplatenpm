@@ -1,0 +1,16 @@
+{
+	"author": "Muhammad Daffa ZW",
+	"name": "fcc-learn-npm-package-json",
+	"description": "A project that does something awesome sangat",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
+}
