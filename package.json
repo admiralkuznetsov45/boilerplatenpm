@@ -2,6 +2,7 @@
 	"author": "Muhammad Daffa",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome sangat",
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
