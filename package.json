@@ -3,8 +3,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome sangat",
 	"keywords": [ "descriptive", "freecodecamp", "words" ],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example" : "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
