@@ -9,6 +9,7 @@ let app = express();
 //     res.send("Hello Express");
 //   });
 
+//3. Serve an HTML File
 app.get("/", (req, res) => {
     res.send(__dirname + "/views/index.html");
   });
